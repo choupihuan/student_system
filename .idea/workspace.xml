@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6e30a6ab-6e5d-4e4a-ba38-8bd61f9d8d91" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+<<<<<<< Updated upstream
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t" afterPath="$PROJECT_DIR$/t" />
+>>>>>>> Stashed changes
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,8 +54,13 @@
       <file leaf-file-name="t" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/t">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="432">
               <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+=======
+            <state relative-caret-position="486">
+              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
@@ -73,6 +82,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/student_system/test/a.py" />
+        <option value="$PROJECT_DIR$/t" />
       </list>
     </option>
   </component>
@@ -514,6 +524,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/t">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="432">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
@@ -620,6 +631,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+=======
+        <state relative-caret-position="486">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
